@@ -25,5 +25,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=musabcel&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=musabcel&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=musabcel&redirect=true)
 
   <div>
