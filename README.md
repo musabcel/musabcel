@@ -11,19 +11,12 @@
 
 <h2> <p align="center"> ⬇️ Featured ⬇️ <h2>
  
-<p align="center">
-<a href="https://github.com/musabcel/android_rom_list">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=musabcel&repo=android_rom_list&hide_border=false&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
+
+[![Featured](https://github-readme-stats.vercel.app/api/pin/?username=musabcel&repo=android_rom_list)](https://github.com/musabcel/android_rom_list)
   
   
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://spotify-github-profile.kittinanx.com/api?username=musabcel&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://spotify-github-profile.kittinanx.com/api/top-langs/?username=musabcel&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=musabcel&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=musabcel&theme=merko&hide_border=true&border_radius=7&locale=tr)](https://git.io/streak-stats)
 
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=musabcel&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=musabcel&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=ff0000&bar_color_cover=true)
 
