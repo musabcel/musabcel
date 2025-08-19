@@ -20,11 +20,11 @@
   
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=musabcel&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=musabcel&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img height="50%" width="auto" src ="https://spotify-github-profile.kittinanx.com/api?username=musabcel&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://spotify-github-profile.kittinanx.com/api/top-langs/?username=musabcel&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=musabcel&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=musabcel&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=musabcel&redirect=true)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=musabcel&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=musabcel&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=ff0000&bar_color_cover=true)
 
   <div>
